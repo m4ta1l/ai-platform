@@ -23,7 +23,7 @@ numpy==1.18.1
 pandas==0.25.3
 prometheus-client==0.7.1
 prometheus-flask-exporter==0.12.1
-protobuf==3.11.2
+protobuf==3.18.3
 python-dateutil==2.8.1
 python-editor==1.0.4
 pytz==2019.3
