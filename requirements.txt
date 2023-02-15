@@ -39,4 +39,4 @@ tabulate==0.8.6
 urllib3==1.25.8
 waitress==1.4.2
 websocket-client==0.57.0
-werkzeug==0.16.1
+werkzeug==2.2.3
